@@ -81,7 +81,7 @@
    `(fringe ((,class (:background ,bg1 :foreground ,fg4))))
    `(cursor ((,class (:background ,fg1))))
    `(show-paren-match-face ((,class (:background ,warning))))
-   `(show-paren-match ((t (:background ,bg4))))
+   `(show-paren-match ((t (:foreground ,accent :underline t))))
    `(show-paren-mismatch ((t (:background ,warning))))
    `(isearch ((,class (:bold t :foreground ,accent :background ,bg4))))
    `(vertical-border ((,class (:foreground ,bg3))))
