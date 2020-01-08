@@ -37,7 +37,7 @@ Download `twilight-theme.el` and put it under `~/.emacs.d/themes/` (or `~/.confi
 ![alt text](./screenshots/solaire.png)
 
 
-Copyright© 2019 Ian Y.E. Pan
+Copyright© 2020 Ian Y.E. Pan
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
