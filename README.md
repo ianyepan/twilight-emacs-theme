@@ -1,4 +1,4 @@
-<h3 align="center">Wilmersdorf Emacs Theme</h3>
+<h3 align="center">Twilight Emacs Theme</h3>
 <hr/>
 
 
