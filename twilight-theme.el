@@ -42,13 +42,13 @@
       (key2    "#CDA869")
       (key3    "#CDA869")
       (accent  "#ffffff")
-      (builtin "#89788a")
+      (builtin "#988299")
       (keyword "#cda869")
       (const   "#cf6a4c")
       (comment "#888888")
       (func    "#9b703f")
       (str     "#f8f8f8")
-      (type    "#89788a")
+      (type    "#988299")
       (var     "#cf6a4c")
       (warning "#ef2929"))
   (custom-theme-set-faces
@@ -56,9 +56,9 @@
    `(default ((,class (:background ,bg1 :foreground ,fg1))))
 
    `(company-preview-common ((t (:foreground unspecified :background ,bg2))))
-   `(company-scrollbar-bg ((t (:background ,bg0))))
+   `(company-scrollbar-bg ((t (:background ,bg00))))
    `(company-scrollbar-fg ((t (:background ,comment))))
-   `(company-tooltip ((t (:inherit default :background ,bg0))))
+   `(company-tooltip ((t (:inherit default :background ,bg00))))
    `(company-tooltip-common ((t (:inherit font-lock-constant-face))))
    `(company-tooltip-selection ((t (:background ,bg3))))
 
