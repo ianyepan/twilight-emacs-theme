@@ -1,6 +1,6 @@
 ;;; twilight-theme.el --- A port of the classic old-school theme
 
-;; Copyright (C) 2019 , Ian Y.E. Pan
+;; Copyright (C) 2020 , Ian Y.E. Pan
 
 ;; Author: Ian Y.E. Pan
 
