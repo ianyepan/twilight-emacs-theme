@@ -109,7 +109,7 @@
    `(org-footnote  ((,class (:underline t :foreground ,fg4))))
    `(org-link ((,class (:underline t :foreground ,type ))))
    `(org-special-keyword ((,class (:foreground ,func))))
-   `(org-block ((,class (:foreground ,fg2 :background ,bg0))))
+   `(org-block ((,class (:foreground ,fg2 :background ,bg0 :extend t))))
    `(org-quote ((,class (:inherit org-block :slant italic))))
    `(org-verse ((,class (:inherit org-block :slant italic))))
    `(org-todo ((,class (:box (:line-width 1 :color ,fg3) :foreground ,keyword :bold t))))
@@ -286,7 +286,6 @@
    `(solaire-hl-line-face ((t (:inherit hl-line :background ,bg1))))
    `(solaire-org-hide-face ((t (:inherit org-hide :background ,bg0))))
 
-
    `(ivy-confirm-face ((t (:inherit minibuffer-prompt :foreground ,keyword))))
    `(ivy-current-match ((t (:background ,bg3))))
    `(ivy-highlight-face ((t (:inherit font-lock-builtin-face))))
@@ -307,7 +306,6 @@
    `(swiper-match-face-3 ((t (:inherit ivy-minibuffer-match-face-3))))
    `(swiper-match-face-4 ((t (:inherit ivy-minibuffer-match-face-4))))
    `(swiper-line-face ((t (:foreground ,fg0 :background ,bg4))))
-
 
    `(diff-hl-insert ((t (:foreground ,tw-g))))
    `(diff-hl-delete ((t (:foreground ,tw-r))))
